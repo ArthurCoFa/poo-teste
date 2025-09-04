@@ -6,8 +6,5 @@ public class Funcionario {
 	public String cpf;
 	public double salarioBase;
 	
-	public double calcularSalario() {
-		
-		return 0;
-	}
+	
 }
